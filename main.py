@@ -1,5 +1,5 @@
 # written and maintained by Brian David Obot
-# email: brianobot9@gmail.com phone: +234 7018977031, +234 8073487154
+# email: brianobot462@yahoo.com brianobot9@gmail.com phone: +234 7018977031, +234 8073487154
 
 import numpy as np
 from matplotlib import pyplot as plt
