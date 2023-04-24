@@ -149,6 +149,6 @@ def get_help():
     *       #      ######  #######  #    # #    # #           #   #    #  #    #    ##
             #      #    #  #     #  #     ##    #   #         #   #    #  #    #  
             #      #    #  #     #  #      #    #     ##      #   ######  ######    ##
-    * Incase of any technical issue experienced when using the calculator, contact the developer    @+234 7018977031 +234 8073487154 brianobot9@gmail.com
+    * Incase of any technical issue experienced when using the calculator, contact the developer  \nPhone one: +234 7018977031 \n Phone two: +234 8073487154 \nemail: brianobot9@gmail.com
     ##################################################################################################################
     """
